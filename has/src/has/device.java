@@ -49,7 +49,11 @@ public void setPower(String power) {
 	Power = power;
 }
 
+public void getName(){
+	
+}
+}
+
 
 
 	
-}
